@@ -42,6 +42,7 @@ int main() {
 		}
 		
 		if (sum > m) {
+
 			
 			right = mid - 1;
 		}
